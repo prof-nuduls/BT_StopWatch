@@ -8,8 +8,8 @@ We decided to develop a Bluetooth Stopwatch that would be used in sports related
 In the code, we have developed profiles for our Linux mascots, Tux and Boris. Below we have included instructions on how to setup and run our application. 
 
  <p float="left">
-  <img  src="https://github.com/prof-nuduls/BT_StopWatch/blob/main/Images/BT_TX_bb.png" width="400">
-  <img  src="https://github.com/prof-nuduls/BT_StopWatch/blob/main/Images/BT_RX_bb.png" width="600">
+  <img  src="https://github.com/prof-nuduls/BT_StopWatch/blob/master/Images/BT_TX_bb.png" width="400">
+  <img  src="https://github.com/prof-nuduls/BT_StopWatch/blob/master/Images/BT_RX_bb.png" width="600">
 </p>
 
 
