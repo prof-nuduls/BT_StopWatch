@@ -26,7 +26,7 @@ credentials = None
 credentials = service_account.Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '155wiO3Gij60yzbDigzpCZG1kRkzmlNSO7ySp7FKt0g4'
+SAMPLE_SPREADSHEET_ID = 'Put your Sheet ID here'
 user = ['Tux!A2','Boris!A2']
 SAMPLE_RANGE_NAME = 'Boris!A2'
 
