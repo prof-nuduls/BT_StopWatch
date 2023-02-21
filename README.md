@@ -58,7 +58,7 @@ In the code, we have developed profiles for our Linux mascots, Tux and Boris. Be
     * Google Sheets API
 
 ## Google Sheets API Setup
-In order to get the Google Sheets setup, follow the following video and put your keys.json file in the same Receiver folder: 
+In order to get the Google Sheets setup, follow the following video and put your sheets ID in the receiver code, and keys.json file in the Receiver folder: 
 [![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/16JjZpocsg0/maxresdefault.jpg)](https://www.youtube.com/watch?v=16JjZpocsg0)
 
 ---
