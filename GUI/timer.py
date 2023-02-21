@@ -139,7 +139,7 @@ class Profiles :
         # os.putenv('SDL_VIDEODRIVER', driver)
         os.putenv('SDL_NOMOUSE', '1')
         pygame.display.init()
-        self.profiles = 0
+        self.profile = 0
         size = (pygame.display.Info().current_w, pygame.display.Info().current_h)
         print("Framebuffer size: ", size[0], "x", size[1])
         self.screen = pygame.display.set_mode(size, pygame.FULLSCREEN)
